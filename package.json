@@ -1,0 +1,22 @@
+{
+  "name": "escrowcontract",
+  "version": "1.0.0",
+  "description": "alchemy university escrow contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "solidity",
+    "smart-contract",
+    "escrow",
+    "alchemy"
+  ],
+  "author": "Mathis Gayton",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/edr-linux-x64-gnu": "^0.3.4",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
